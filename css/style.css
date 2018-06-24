@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+html, body{
+    height:100%;
+    color:white;
+    font-family: 'Lato', sans-serif;
+    
+}
+
+.heading{
+    padding-top: 30%;
+}
+
+
+
+#link{
+    color:white;
+}
+
+#link1{
+    color:white;
+}
+
+#link2{
+    color:white;
+}
+
+#link3{
+    color:white;
+}
+ 
+#link4{
+    color: white;
+}
+
+#link5{
+    color: white;
+}
