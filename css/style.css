@@ -12,7 +12,9 @@ html, body{
     padding-top: 30%;
 }
 
-
+#section-about{
+    color: black;
+}
 
 #link{
     color:white;
