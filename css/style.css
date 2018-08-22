@@ -1,0 +1,23 @@
+/* Remove padding and margin */
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+ 
+}
+
+.oh-sauced {
+  background-image: url(../imgs/IMG_7694.jpg);
+  height: 200px;
+  width: 100%;
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
