@@ -45,3 +45,7 @@ html {
     align-items: center;
     margin-top: 10%;
 }
+
+.map{
+    border-radius: 50%;
+}
