@@ -20,17 +20,20 @@ html {
   background-position: center;
   background-size: cover;
   color: white;
+  border: red 1px solid;
 }
 
 
 .main-icon {
     display: flex;
     flex-direction: row;
+    border: blue 1px solid;
 }
 
 .img-main{
     width: 30%;
     height: 100px;
+    border: green 1px dotted;
 }
 
 /* h1{
